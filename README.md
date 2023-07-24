@@ -1,5 +1,5 @@
 # WELCOME
-This is the gathering place for the Code for Climate 2023
+This is the gathering place for the **Code for Climate 2023**
 
 ## What is Code for Climate?
 Interested in learning to code? Curious about our local air quality? Participants in Code for Climate will gain hands-on experience with programming basics and will write their own code to analyze data using Python. After five days, students will have written a program to explore, analyze and visualize Milwaukee air quality data!
