@@ -25,3 +25,9 @@ Codespace didn't work today.
 name=input('What is your name? \n')
 
 print('Hi! ',name)
+
+verb1=input('Give me one verb: ')
+
+verb2=input('Give me another verb: ')
+
+print("I don't always have time to",verb1,"a shower, but I always make sure to",verb2,"my hair."  )
