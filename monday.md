@@ -18,3 +18,5 @@ This file and the README file and many other files in this repository will be wr
 It is recommended that you try using markdown yourself, too. At least for this program. And see if you like it.
 
 To get you started, [here's a cheatsheet on Markdown (md)](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+Johnny's Notes: codespace didn't work today during class
